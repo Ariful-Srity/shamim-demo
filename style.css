@@ -1,0 +1,39 @@
+body{
+    font-family: 'Lobster Two', cursive;
+font-family: 'Poppins', sans-serif;
+}
+
+
+.div1{
+
+text-align: end;
+
+}
+.all-card{
+
+
+}
+.card-deck{
+
+
+
+}
+/*---------active card -------*/
+.active-card{
+background-color: darksalmon;
+color: rgb(17, 17, 16);
+box-shadow: 5px 5px burlywood;
+
+}
+
+
+
+
+
+/*----------FOOTER--------*/
+.apple .google{
+display: flex;
+flex-direction: row;
+
+
+}
